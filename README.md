@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabinaene
 - 👀 I’m interested in Salesforce development and Salesforce testing
-- 🌱 I’m currently learning: [Full Stack Open 2021](https://fullstackopen.com/) to help me get a different perspective and become a better full-stack developer in Salesforce.
+- 🌱 I’m currently learning: [Full Stack Open](https://fullstackopen.com/) to help me get a different perspective and become a better full-stack developer in Salesforce.
 - 💞️ I’m looking to collaborate on tools for Salesforce development
 <!--- - 📫 How to reach me ... -->
 
